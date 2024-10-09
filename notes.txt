@@ -1,0 +1,21 @@
+clone and status 
+clone is used is git to cpy
+git clone https://github.com/Rohitkumar276/github_tutorials.git
+
+change fodler go inside use
+: cd name of folder use atab to autocomplear file name
+
+use ls to show file
+use ls -a to show all files
+
+
+untrack file
+
+modified files
+
+    staged files
+ unmodified files
+
+
+git add
+ git  add. for all files
